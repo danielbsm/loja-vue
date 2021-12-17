@@ -1,0 +1,25 @@
+{
+    "id": "camera",
+    "nome": "Camera",
+    "preco": 2999,
+    "descricao": "Uma câmera fotográfica é um dispositivo óptico que registra uma única imagem de uma cena em um sensor eletrônico ou filme fotográfico.",
+    "estoque": 12,
+    "img": "./api/produtos/camera/camera.jpg",
+    "avaliacoes": [
+        {
+            "nome": "Joao",
+            "estrelas": 5,
+            "descricao": "Produto muito bom"
+        },
+        {
+            "nome": "Maria",
+            "estrelas": 3,
+            "descricao": "Não sei usar"
+        },
+        {
+            "nome": "Betinha",
+            "estrelas": 5,
+            "descricao": "Muito Rapido"
+        }
+    ]
+}

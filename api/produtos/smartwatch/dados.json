@@ -1,0 +1,25 @@
+{
+    "id": "smartwatch",
+    "nome": "Smartwatch",
+    "preco": 2999,
+    "descricao": "Como já dissemos, um smartwatch funciona como um smartphone de pulso super personalizado. Basta conectar ao seu smartphone e pronto! Ele mostra suas notificações e mensagens, troca suas músicas, configura alarmes e monitora seus batimentos cardíacos e número de passos diários, além de outras diversas funções.",
+    "estoque": 12,
+    "img": "./api/produtos/smartwatch/smartwatch.jpg",
+    "avaliacoes": [
+        {
+            "nome": "Joao",
+            "estrelas": 5,
+            "descricao": "Produto muito bom"
+        },
+        {
+            "nome": "Maria",
+            "estrelas": 3,
+            "descricao": "Não sei usar"
+        },
+        {
+            "nome": "Betinha",
+            "estrelas": 5,
+            "descricao": "Muito Rapido"
+        }
+    ]
+}

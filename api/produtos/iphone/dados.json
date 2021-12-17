@@ -1,0 +1,25 @@
+{
+    "id": "iphone",
+    "nome": "Iphone",
+    "preco": 3999,
+    "descricao": "O Apple iPhone 13 é um smartphone iOS com características inovadoras que o tornam uma excelente opção para qualquer tipo de utilização. A tela de 6.1 polegadas coloca esse Apple no topo de sua categoria. ... A espessura de apenas 7.7 milímetros torna o Apple iPhone 13 um dos telefones mais finos que existem.",
+    "estoque": 12,
+    "img": "./api/produtos/iphone/iphone.jpg",
+    "avaliacoes": [
+        {
+            "nome": "Daniel",
+            "estrelas": 5,
+            "descricao": "Produto muito bom, rápido, gostei muito!"
+        },
+        {
+            "nome": "Maria",
+            "estrelas": 3,
+            "descricao": "Não sei usar"
+        },
+        {
+            "nome": "Ilma",
+            "estrelas": 5,
+            "descricao": "Muito Rapido"
+        }
+    ]
+}
